@@ -6,7 +6,7 @@ include 'inc/header.php';
 ?>
 
 
-<div class="container">
+
     <form class='border-bottom border-secondary p-3 mb-4' action="" method='post'>
         <div class="form-group">
             <input class='form-control' type="text" name='feed' placeholder='Enter RSS Feed'>
@@ -30,7 +30,7 @@ include 'inc/header.php';
 
     ?>
 
-</div>
+
 
 <?php
 include './inc/footer.php';
